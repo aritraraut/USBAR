@@ -1,5 +1,5 @@
 # USBAR
-. Abstract :::
+Abstract :::
 
 Purpose ->
 Existing task-oriented virtual agents can assist users with simple tasks like ticket
